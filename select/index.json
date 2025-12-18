@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "end of a life",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2025-12-18T02:36:46.407582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "End of a Life Time",
+      "artist": "Unbroken",
+      "has_synced": false,
+      "path": "select/01_End_of_a_Life_Time_Unbroken.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "end of a life",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/02_end_of_a_life_Mori_Calliope.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "end of a life (Happily Ever After Version)",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/03_end_of_a_life_(Happily_Ever_After_Version)_Mori_Calliope.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "end of a life (Happily Ever After ver.)",
+      "artist": "Mori Calliope",
+      "has_synced": true,
+      "path": "select/04_end_of_a_life_(Happily_Ever_After_ver.)_Mori_Calliope.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "End of a Life",
+      "artist": "Mori Calliope",
+      "has_synced": false,
+      "path": "select/pl_01_End_of_a_Life_Mori_Calliope.txt"
+    }
+  ]
+}
